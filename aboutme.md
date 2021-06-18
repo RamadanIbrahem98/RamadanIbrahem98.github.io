@@ -1,15 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: Senior Student, Systems & Biomedical Engineering Department. Cairo University
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Education
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Senior Student\\
+Systems & Biomedical Engineering Department\\
+GPA: 3.26\\
+Faculty of Engineering, Cairo University
 
-What else do you need?
+### Hobies
+
+- 📚 Reading
+- 📺 Watching Movies & TV Shows
 
 ### My story
 
