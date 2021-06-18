@@ -15,10 +15,10 @@ author: Ramadan Ibrahem
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Download Resume: "https://github.com/RamadanIbrahem98/RamadanIbrahem98.github.io/raw/master/assets/file/Resume.pdf"
 
 # --- Logo --- #
 
